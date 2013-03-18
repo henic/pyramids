@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>pyramids.png</file>
+        <file>sounds/kiss01.wav</file>
+    </qresource>
+</RCC>
